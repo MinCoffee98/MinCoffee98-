@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/sunflower2998" target="blank"><img src="https://img.shields.io/twitter/follow/sunflower2998?logo=twitter&style=for-the-badge" alt="sunflower2998" /></a> </p>
 
+- 🌱 I’m currently learning **Desenvolvimento de Sistemas 1/3**
+
+- 📫 How to reach me **isabelavr58@gmail.com**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mincoffe98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mincoffe98" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/mincoffee98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/mincoffee98" height="30" width="40" /></a>
 <a href="https://twitter.com/sunflower2998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunflower2998" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isabelaautaof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isabelaautaof/" height="30" width="40" /></a>
 <a href="https://instagram.com/@cafeinapura98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cafeinapura98" height="30" width="40" /></a>
