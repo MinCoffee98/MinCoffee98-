@@ -15,11 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/mincoffee98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/mincoffee98" height="30" width="40" /></a>
+<a href="https://dev.to//mincoffee98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/mincoffee98" height="30" width="40" /></a>
 <a href="https://twitter.com/sunflower2998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunflower2998" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isabelaautaof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isabelaautaof/" height="30" width="40" /></a>
-<a href="https://instagram.com/@cafeinapura98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cafeinapura98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/isabelaautaof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isabelaautaof" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/278479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="278479" height="30" width="40" /></a>
+<a href="https://instagram.com/cafeinapura98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cafeinapura98" height="30" width="40" /></a>
 <a href="https://discord.gg/CafeínaPura#4246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CafeínaPura#4246" height="30" width="40" /></a>
+<a href="/twitch.tv/cafeinapura98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="twitch.tv/cafeinapura98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,5 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mincoffee98&show_icons=true&locale=en" alt="mincoffee98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mincoffee98&" alt="mincoffee98" /></p>
+
 
 
