@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mincoffee98&" alt="mincoffee98" /></p>
  
- ![Snake animation](https://github.com/mincoffe98/mincoffee98/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MinCoffee98/MinCoffee98/blob/output/github-contribution-grid-snake.svg)
  
 
 
