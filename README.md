@@ -1,6 +1,6 @@
 <h1 align="center"> Oii ♥👋, Eu sou Isabela Vitória ♥</h1>
 
-  < a href = "https://github.com/MinCoffee98">
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincoffee98&label=Profile%20views&color=0e75b6&style=flat" alt="mincoffee98" /> </p>
 
 
@@ -28,6 +28,7 @@
 <a href="https://instagram.com/cafeinapura98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cafeinapura98" height="30" width="40" /></a>
 <a href="https://discord.gg/CafeínaPura#4246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CafeínaPura#4246" height="30" width="40" /></a>
 <a href="/twitch.tv/cafeinapura98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="twitch.tv/cafeinapura98" height="30" width="40" /></a>
+<a href = "https://github.com/MinCoffee98">
 </p>
 
 
