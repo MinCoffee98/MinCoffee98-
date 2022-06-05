@@ -1,6 +1,8 @@
 <h1 align="center"> Oii ♥👋, Eu sou Isabela Vitória ♥</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mincoffee98&label=Profile%20views&color=0e75b6&style=flat" alt="mincoffee98" /> </p>
-
+<div>
+  < a href = "https://github.com/MinCoffee98">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mincoffee98&label=Profile%20views&color=0e75b6&style=flat" alt="mincoffee98" /> </p>
+<div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mincoffee98" alt="mincoffee98" /></a> </p>
